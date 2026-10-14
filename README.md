@@ -1,3 +1,7 @@
+> **OpenV development note:** This repository contains the administration-panel code being evaluated for OpenV. The documentation below describes the inherited txAdmin project and should not be read as proof of a completed, supported OpenV administration release. The upstream authors, branding, and licenses remain attributed. For the current OpenV project and verified status, see [OpenV](https://github.com/bradjtrammell/openv).
+
+---
+
 <p align="center">
     <p align="center">
         <img src="docs/banner.png">
